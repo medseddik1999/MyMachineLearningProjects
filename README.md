@@ -20,7 +20,20 @@ In this project, I tried to develop a machine learning model that tries to detec
   + Random Forest  
 
 
+### Financial sentiment analysis  
 
+
+In this project, I developed two models of natural language analysis. The first one is clustring, where I instruct the machine to differentiate between macroeconomic and microeconomic information.The second model is the financial sentiment understanding of information such as good or bad news in the financial market 
+
+* Data Preparation : 
+    
+    + Cleanning : regex , tokonizer  
+    + Transform : Word to vec 
+    
+* Models : 
+  + Clustering 
+  + Random forset poor accuracy
+  + Neural Network with 72% accuracy 
   
 
       
